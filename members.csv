@@ -1,0 +1,1 @@
+[Member{memberType=m, memberID=1, name='anna', fees=1000.0}, MultiClubMember{memberType=M, memberID=2, name='IGOR', fees=1200.0membershipPoints=100}, SingleClubMember{memberType=M, memberID=3, name='DDDD', fees=900.0club=Jupiter}, Member{memberType=g, memberID=4, name='jop', fees=1000.0}]
